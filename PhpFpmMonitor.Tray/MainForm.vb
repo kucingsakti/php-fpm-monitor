@@ -11,7 +11,7 @@ Public Class MainForm
     Private logger As SimpleLogger
     Private config As MonitorConfig
 
-    Private contextMenu As ContextMenuStrip
+    Private Shadows contextMenu As ContextMenuStrip
     Private statusMenuItem As ToolStripMenuItem
     Private executeMenuItem As ToolStripMenuItem
     Private configMenuItem As ToolStripMenuItem

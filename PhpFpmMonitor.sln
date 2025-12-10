@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36623.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PhpFpmMonitor.Tray", "PhpFpmMonitor\PhpFpmMonitor.Tray.vbproj", "{1A022597-989A-4015-8D7B-A1D099868A92}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PhpFpmMonitor.Tray", "PhpFpmMonitor.Tray\PhpFpmMonitor.Tray.vbproj", "{1A022597-989A-4015-8D7B-A1D099868A92}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PhpFpmMonitor.Core", "PhpFpmMonitor.Core\PhpFpmMonitor.Core.vbproj", "{ABFE99F5-4A9A-49F6-B128-35A88AC46C8C}"
 EndProject
