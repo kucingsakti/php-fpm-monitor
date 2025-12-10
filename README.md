@@ -1,6 +1,6 @@
 # PhpFpmMonitor
 
-PhpFpmMonitor is a .NET-based solution for monitoring and managing PHP-FPM services. This solution consists of several integrated projects to simplify the monitoring and management of PHP-FPM on your server.
+PhpFpmMonitor is a .NET-based solution designed to address the issue of "Windows Nginx PHP-FPM closed frequently." This solution helps monitor and manage PHP-FPM services running alongside Nginx on Windows, automatically detecting service failures and executing recovery scripts when needed.
 
 ## Project Structure
 
